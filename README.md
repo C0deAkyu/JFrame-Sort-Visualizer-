@@ -18,10 +18,9 @@ A Java Swing (**JFrame**) program that visually presents a sorting algorithm in 
 
 ## Preview
 
-![Failed to Load Image :(](PreviewImages/Pre-Sort.png)
-![Failed to Load Image :(](PreviewImages/Mid-Sort.png)
-![Failed to Load Image :(](PreviewImages/Post-Sort.png)
-
+<img src="PreviewImages/Pre-Sort.png" width="400">
+<img src="PreviewImages/Mid-Sort.png" width="400">
+<img src="PreviewImages/Post-Sort.png" width="400">
 
 ## Why I Made It?
 
